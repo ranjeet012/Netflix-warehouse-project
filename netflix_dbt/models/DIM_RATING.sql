@@ -1,0 +1,3 @@
+SELECT DISTINCT
+rating
+FROM netflix_staging

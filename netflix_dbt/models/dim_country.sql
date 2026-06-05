@@ -1,0 +1,3 @@
+SELECT DISTINCT
+country
+FROM netflix_staging
