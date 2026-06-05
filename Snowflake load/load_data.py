@@ -9,7 +9,7 @@ print(df.head())
 
 # Snowflake connection details
 user = "RANJEET2222PAL2"
-password = quote_plus("Ranjeetpal@143m")
+password = quote_plus("Enter your snowflake password here")
 account = "WLIWIVH-HW57459"
 warehouse = "COMPUTE_WH"
 database = "NETFLIX_WAREHOUSE"
